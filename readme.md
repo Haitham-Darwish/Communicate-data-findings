@@ -43,8 +43,8 @@ sure to use different color palettes for each quality variable to make sure it
 is clear that they're different between plots.
 
 ## Resources
-[pandas](https://pandas.pydata.org)
-[NumPy](https://numpy.org)
-[Matplotlib](https://matplotlib.org)
-[seaborn](https://seaborn.pydata.org)
-[stackoverflow](https://stackoverflow.com/questions/50408886/scrolling-issues-in-reveal-js-slides-created-by-jupyter-nbconvert)
+* [pandas](https://pandas.pydata.org)
+* [NumPy](https://numpy.org)
+* [Matplotlib](https://matplotlib.org)
+* [seaborn](https://seaborn.pydata.org)
+* [stackoverflow](https://stackoverflow.com/questions/50408886/scrolling-issues-in-reveal-js-slides-created-by-jupyter-nbconvert)
