@@ -48,3 +48,4 @@ is clear that they're different between plots.
 * [Matplotlib](https://matplotlib.org)
 * [seaborn](https://seaborn.pydata.org)
 * [stackoverflow](https://stackoverflow.com/questions/50408886/scrolling-issues-in-reveal-js-slides-created-by-jupyter-nbconvert)
+* [Data Visualization: Chart Dos and Don'ts](https://guides.library.duke.edu/datavis/topten)
